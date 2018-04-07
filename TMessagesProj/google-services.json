@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "43695802501",
+    "firebase_url": "https://deltagram-82278.firebaseio.com",
+    "project_id": "deltagram-82278",
+    "storage_bucket": "deltagram-82278.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43695802501:android:14a63e399f9a98fd",
+        "android_client_info": {
+          "package_name": "ir.deltagram.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43695802501-gkrdvitk1vu7528at27cdlom2t668r0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTMxlvv32sfUunz71H9eFuaaiE8gGvHU8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
